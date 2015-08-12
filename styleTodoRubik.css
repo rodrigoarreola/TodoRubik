@@ -1,0 +1,128 @@
+html,body{
+	height: 100%;
+	font-family: 'Francois One', sans-serif;
+}
+header{
+	background:url(imagenes/background.jpg);
+	height: 100%;
+	padding-top: 150px;
+}
+
+#TiposDeCubos{
+	background: url(imagenes/background3.jpg);
+	background-repeat;
+	height: 200%;
+	padding-top: 20px;
+}
+#Video{
+	background: url(imagenes/background2.jpg);
+	height: 100%;
+	padding-top: 50px;
+}
+#Newsletter{
+	background: url(imagenes/background2.jpg);
+	height: 20%;
+	padding-top: 120px;
+}
+/*Colores*/
+.azul-text{
+	color: #0092B2;
+}
+.ambar-text{
+	color: #FFC400;
+}
+.verde-text{
+	color: #C7F464;
+}
+.blue-grey{
+	color: #607D8B;
+}
+.blanco-text{
+	color: #FCFCF9;
+}
+.black-text{
+	color: #000000;
+}
+.azul-claro-bg{
+	background-color: #ECEFF1;
+}
+.hueso-bg{
+	background-color: #F3F0EA;
+}
+.amarillo-bg{
+	background-color: #F4FF81
+}
+.azul-bg{
+	background-color: #0092B2;}
+}
+
+/*Texto*/
+.text-center{
+	text-align: center;
+}
+.text-jusify{
+	text-align: justify;
+}
+
+/*Margenes*/
+.centrado{
+	text-align: center;
+}
+.margen-min{
+	margin-top: 10px;
+}
+.margen-sup{
+	margin-top: 100px;
+}
+.big-bottom-space{
+	margin-bottom: 60px;
+}
+.circle{
+	border-radius: 50%;
+}
+/*Tamaños de Letras*/
+.letra8{
+	font-size: 8em;
+}
+.letra4{
+	font-size: 4em;
+}
+.letra3{
+	font-size: 3em;
+}
+.letra2{
+	font-size: 2em;
+}
+.letra1{
+	font-size: 1em;
+}
+.container{
+	width: 80%;
+	margin-right:auto;
+	margin-left:auto;
+}
+/* Esta clase es para los bloqus que contengan un posible nombre y los votos */
+.ocupa-cuarto{
+	width: 25%;
+}
+.ocupa-mitad{
+	width: 50%;
+}
+.inline-block{
+	display: inline-block;
+	margin-right: -4px;
+}
+
+.ContornoRedondo{
+	border-radius: 45px;
+}
+.inline{
+	display: inline;
+}
+.form-control{
+	width: 75%;
+	font-size: 1.5em;
+	border: none;
+	border-bottom: solid 1px black;
+	outline: none;
+}
